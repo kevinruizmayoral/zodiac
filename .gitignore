@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+.bzr
+.bzignore
+bin
+eggs
+develop-eggs
+parts
+.mr.developer.cfg
+.installed.cfg
+ruiz_kevin_zodiac.tar.gz
